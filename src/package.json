@@ -1,0 +1,23 @@
+{
+    "name": "stackexchange.js",
+    "version": "0.1.0-alpha",
+    "description": "Node.js library for Stack Exchange API",
+    "keywords": [
+        "Node.js",
+        "Stack Exchange",
+        "API",
+        "v2.2"
+    ],
+    "homepage": "https://github.com/DaemonBeast/StackExchange.js#readme",
+    "bugs": "https://github.com/DaemonBeast/StackExchange.js/issues",
+    "license": "MIT",
+    "author": {
+        "name": "daemonbeast",
+        "email": "DaemonBeast@outlook.com"
+    },
+    "main": "index.js",
+    "directories": {
+        "lib": "./lib"
+    },
+    "repository": "github:DaemonBeast/StackExchange.js"
+}
